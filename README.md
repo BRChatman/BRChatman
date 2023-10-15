@@ -16,4 +16,4 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://linkedin.com/in/bruce-chatman-30b9ab262/
-[instagram]: https://www.instagram.com/adventdreanz/
+[instagram]: https://www.instagram.com/adventdreamz/
