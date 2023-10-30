@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BRChatman/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BRChatman/azure-network-protocols)
-
+  - [Azure Resource Group and Virtual Machine Creation](https://github.com/BRChatman/Azure---Resource-Group-and-Virtual-Machine-Creation/tree/main)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Bruce | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
