@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bruce, an <a href="https://www.linkedin.com/in/bruce-chatman-30b9ab262/">Aspiring IT Professional</a>☺</h1>
+<h1>Hi, I'm Bruce, an <a href="https://www.linkedin.com/in/bruce-chatman-30b9ab262/">Aspiring IT/CyberSecurity Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
