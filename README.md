@@ -13,7 +13,9 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Bruce | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Bruce | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Bruce | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+
+- <b>PCI Compliance DSS (Certification and Training LABS)</b>
 
 [linkedin]: https://linkedin.com/in/bruce-chatman-30b9ab262/
 [instagram]: https://www.instagram.com/adventdreamz/
