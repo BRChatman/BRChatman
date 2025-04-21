@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bruce, an <a href="https://www.linkedin.com/in/bruce-chatman-30b9ab262/">Aspiring Cybersecurity/Software Engineer/QA Automation Professional</a>☺</h1>
+<h1>Hi, I'm Bruce, an <a href="https://www.linkedin.com/in/bruce-chatman-30b9ab262/">Aspiring Cybersecurity/Software Engineer/QA Automation/Front End Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -14,7 +14,12 @@
  <h2>    PCI Compliance DSS:</h2>
 
  - <b>PCI (Certification and Training LABS)</b>
+
+ <h2>    Coding Journey (My Projects):</h2>
+
+ 
 <h2>🤳Connect with me:</h2>
+
 
 [<img align="left" alt="Bruce | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Bruce | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
